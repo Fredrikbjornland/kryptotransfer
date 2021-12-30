@@ -8,9 +8,7 @@ React, Vite, Tailwindcss, hardhat, soidity
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+![image](https://user-images.githubusercontent.com/43269579/147772600-4c2c2a0e-d7a2-40e0-b3ad-c307dc205fe0.png)
 
 ## Installation and Setup Instructions
 
