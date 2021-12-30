@@ -23,9 +23,9 @@ Installation:
 `cd client %% npm install`  
 
 To Start Server:
-1. 
+
 Add .env with giphy token
-2.
+
 `npm run dev`  
 
 To Visit App:
